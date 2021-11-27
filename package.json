@@ -1,12 +1,12 @@
 {
-  "name": "xgdps",
+  "name": "Superior Dash BOT",
   "version": "1.0.0",
-  "description": "xgdps bot",
+  "description": "Bot for Superior Dash",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Wylie",
+  "author": "TheLegendaryVoid",
   "license": "ISC",
   "dependencies": {
     "base64-xor": "^0.10.0",
